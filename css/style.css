@@ -1,0 +1,111 @@
+body{
+    overflow-x: hidden;
+}
+
+/* HEADER */
+
+#header{
+    max-width:100%;
+    height:1920px;
+    max-height:100%;
+    height:937px;
+
+}
+
+#header-img{
+    max-width:100%;
+    max-height:100%;
+    height:937px;
+    width:1920px;   
+    position: absolute;
+}
+
+
+/* END HEADER */
+
+/* BURGER LIST SYMBOL */
+
+#bars{
+    position: relative;
+    color:#281FFF;
+   font-size:300%;
+    margin:1%;  
+}
+
+/* END BURGER LIST SYMBOL */
+
+/* NAVIGATION */
+#nav{
+    position:relative;
+    float:right;
+    margin-top:2%;
+    margin-right:8%;
+}
+
+#nav-ul-li{
+display:inline;
+margin-left:25px;
+font-size:21pt;
+color:#77A9FF;
+font-family: 'Montserrat', sans-serif;
+}
+
+
+/* END NAVIGATION */
+
+/* THE INFORMATION */
+
+#article-p{
+   position:relative; 
+   float:right;
+   margin-top:6%;  
+   margin-left:50%;    
+margin-right:5%;
+font-size:330%;
+color:white;
+font-family: 'Montserrat', sans-serif;
+
+}
+#article-p-span{
+    color:#20E9FF;
+    margin-top:1%;
+    font-size:200%;
+    margin-left:50%;    
+    font-family: 'Montserrat', sans-serif;
+}
+#article-p-span2{
+    color:#20E9FF;
+    margin-top:1%;
+    font-size:200%;
+    margin-left:50%;    
+    font-family: 'Montserrat', sans-serif;
+}
+#article-p-span3{
+    color:#20E9FF;
+    margin-top:1%;
+    font-size:200%;
+    margin-left:50%;    
+    font-family: 'Montserrat', sans-serif;
+}
+#article-p-span4{
+    color:#20E9FF;
+    font-size:36%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* END THE INFORMATION */
+
+/* BUTTON */
+
+#button{
+    margin-top:4%;
+    margin-right:10%;
+    position:relative;
+    padding: 30px 170px;
+    float:right;
+    border-radius:100px;
+background-color: #281FFF;
+font-family: 'Montserrat', sans-serif;
+
+}
+/* END BUTTON */
